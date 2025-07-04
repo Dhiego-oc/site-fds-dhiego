@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(143, 227, 227);
+}
+h1 {
+    color: indigo;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+ul li{
+    padding-bottom:30px;
+}
+img {
+    border-radius: 60px;
+}
+a:hover{
+    color: green; 
+}
+ table{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    font-size: 20px;
+}
+ .países{
+    width: 300px;
+    height: 300px;
+    font-style: italic;
+    padding: 40px;
+}
